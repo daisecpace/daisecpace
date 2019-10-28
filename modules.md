@@ -3,7 +3,9 @@ layout: page
 title: Modules
 permalink: /modules/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+Module 1
+Module 2
+Module 3
 
 * Author: Camille Diez
 * Github: http://github.com/diezcami
