@@ -10,10 +10,3 @@ We hope to these hands-on materials:
 •	Introduce cybersecurity as a new knowledge area for Information Systems students for future career choices, and 
 •	Bridge the gap between the current curriculum and industry expectations by introducing an emerging knowledge area. 
 Please go to modules section to access materials for each module.    
-
----
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
-
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
