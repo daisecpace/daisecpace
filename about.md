@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Our project DAISEC (Data Analytics In cyberSECurity) aims to incorporate hands-on teaching of data analytics in cybersecurity. To that end, we create three hands-on teaching modules that incorporates authentic analytics based solutions for cybersecurity related problems.
