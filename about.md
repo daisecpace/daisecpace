@@ -14,7 +14,7 @@ We hope to these hands-on materials:
 •	Introduce cybersecurity as a new knowledge area for Information Systems students for future career choices, and 
 
 •	Bridge the gap between the current curriculum and industry expectations by introducing an emerging knowledge area. 
-Please go to [modules]https://daisecpace.github.io/modules/ section to access materials for each module.    
+Please go to [modules](https://daisecpace.github.io/modules/) section to access materials for each module.    
 
 
 
