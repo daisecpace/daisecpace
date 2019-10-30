@@ -1,8 +1,8 @@
 # Site settings
-title: Project Daisec
+title: Welcome to Project Daisec!
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+  Project Daisec
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://diezcami.github.io" # the base hostname & protocol for your site
 twitter_username: username
