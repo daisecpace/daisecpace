@@ -11,6 +11,8 @@ Please download the tutorial and the dataset.
 
 
 
+
+
 **Module2:  Image Manipulation Detection**
 
 With the increasing popularity of image manipulation from memes creation to image filters apps, there was a concern in the malicious use of such applications. Digitally forged images have been used to target opposing politicians, support or depreciate public manifestations, spread hoaxes, and et. cetera.
