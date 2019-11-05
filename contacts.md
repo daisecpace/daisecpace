@@ -6,4 +6,3 @@ permalink: /contact/
 
 * Author: **Yegin Genc**
 * e-mail: ygenc@pace.edu
-* Github: https://github.com/ygenc
