@@ -1,18 +1,8 @@
-# Arctic Fox
-An open source minimal theme for Jekyll, ideal for blogging.
+# Data AnalytIcs for cyberSEC
 
-View the demo at http://diezcami.github.io/arctic-fox-theme
+This project aims to address “Integration of hand-on learning experiences into cyber security curriculum” as described in Section 1.2.1 of the solicitation. Development of teaching modules will involve data collection and calibration of relevant datasets; and development of teaching materials such as use-cases and project evaluation rubrics. We created three modules. These modules are disseminated via a public domain website. In addition, in accordance with our plan, we created a two-server system that is capable of hosting multi-session environments for data analytics projects and data collections 
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
 
-## License
-The MIT License (MIT)
-
-Copyright (c) 2015 Camille Diez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Acknowledgment
+ 
+The author(s) would like to acknowledge the support from the Department of Defense under CNAP Grant No. H98230-17-1-0335. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Department of Defense or the U.S. government.
