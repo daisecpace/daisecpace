@@ -10,7 +10,7 @@ twitter_username: username
 github_username: username
 
 # Build settings
-markdown: redcarpet
+#markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
