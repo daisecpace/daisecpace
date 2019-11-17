@@ -14,7 +14,7 @@ Domain Name Data Set: Legitimate domains (labeled as negative cases) are collect
 DGA domain data is collected from the DataDrivenSecurity website. These DGA domains are from recent botnets including “Cryptolocker”, two separate “Game-Over Zeus” algorithms, and an anonymous collection of algorithmically generated domains. In total, there are 52,665 entries DGA domains in this data set. In this tutorial, we will use 1000 DGA domains randomly selected from this data set for the analysis.
 
 A 18-page tutorial was prepared to instruct students to train an SVM based model to detect machine generated domain names. 
-Please download the tutorial and the dataset.
+Please download the [tutorial and the dataset](https://github.com/daisecpace/daisecpace.github.io/tree/master/modules/machinegendomains).
 
 
 
@@ -25,7 +25,7 @@ Online transactions dataset: For this module, we modified a readily available da
 Customers: Second we prepared a “customers” dataset derived from the transactions. This dataset aggregates the transactional data at the customer level. 
 
 A 20-page tutorial was prepared to instruct students to explore the dataset using visualization. 
-Please download the tutorial and the dataset.
+Please download the [tutorial and the dataset](https://github.com/daisecpace/daisecpace.github.io/tree/master/modules/cc_fraud).
 
 
 
@@ -36,4 +36,4 @@ Twitter Dataset: Face Swap images were downloaded from Twitter searching from ha
 Doctored Images Dataset:  This dataset consists of a series of more general images than face images in dataset 1. There are 566 original images collected from a varying number of situations, and they form category one: Original dataset. Each of these images was manipulated using some image editing tools like photoshop, and they form category two: Doctored dataset. The purpose of collecting dataset 2 is to test how deep learning models can detect manipulated images from more general situations.
 
 A 16-page tutorial was created to instruct students to train and test a convolutional neural network (CNN) for detecting manipulated images 
-Please download the tutorial and the dataset.
+Please download the [tutorial and the dataset](https://github.com/daisecpace/daisecpace.github.io/tree/master/modules/manipulatedimagedetection).
