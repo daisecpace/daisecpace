@@ -35,7 +35,7 @@ Customer 	Average of amount 	# Tnx 	 # Fraud 	bal avg 	Bal std 	F 1 	F 2 	F 3 	F
 aaajfenizilbv@yahoo.com 	49.95 	1 	0 	-3384.00 	0.00 	0 	0 	0 	0 
 aaawmprmbeldr58@comcast.net 	49.95 	1 	0 	-2193.00 	0.00 	0 	1 	0 	0 
 
-
+A 20-page tutorial was prepared to instruct students to explore the dataset using visualization. 
 Please download the tutorial and the dataset.
 
 
@@ -47,16 +47,4 @@ Twitter Dataset: Face Swap images were downloaded from Twitter searching from ha
 Doctored Images Dataset:  This dataset consists of a series of more general images than face images in dataset 1. There are 566 original images collected from a varying number of situations, and they form category one: Original dataset. Each of these images was manipulated using some image editing tools like photoshop, and they form category two: Doctored dataset. The purpose of collecting dataset 2 is to test how deep learning models can detect manipulated images from more general situations.
 
 A 16-page tutorial was created to instruct students to train and test a convolutional neural network (CNN) for detecting manipulated images 
-
-In addition to the modules, the following manuscripts were generated
-
-Manuscript 1 –  Detecting Algorithmically Generated Domains Using N-grams Methods
-
-Abstract— Domain generation algorithms (DGA) has quickly become the main method for attackers to communicate with their bot and malicious software. Various families of recent botnets such as Necurs, Dridex and Kraken have used DGA to generate a large number of random domains dynamically so that static domain lists become ineffective. Some researchers have introduced many detection methods and had moderate success. However, their methods either had high false positives or failed to detect those DGA use variations forms. This goal of this article is to explore how artificial intelligence, particularly text processing and machine learning, is leveraged to detect machine generated domain names. We tested traditional methods in classification of domain names has low accuracy on dictionary-based DGA. We purposed a new benchmark method based on N-grams that can be leveraged in the DGA detections. In addition, we compare our model with other DGA detecting models and our experimental results show that the analysis of N-Gram methods can make a great progress with 99.79% detection accuracy rate and 0.67% false positive rate. At last, we found an optimal N values in N-gram methods for domain names
-
-Manuscript 2 –  Understanding Nigerian Email Scams: a Content Analysis Approach
-
-
-Abstract—Nigerian email scams have been around for a long time and they are still remarkably successful. Understanding these scams requires in depth analysis of email content.  In this study, we explore using computational content analysis techniques for investigating such email scams – a process usually done with qualitative analysis of email messages.  We then experiment using our findings to further study characteristics of the scammers.
-
-
+Please download the tutorial and the dataset.
