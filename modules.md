@@ -19,6 +19,8 @@ Please download the [tutorial and the dataset](https://github.com/daisecpace/dai
 
 
 
+
+
 **Module 2 – Fraud Detection Analysis
 
 Online transactions dataset: For this module, we modified a readily available dataset to promote answering open ended question with analytics. Specificely, we used UCSD DataMining Contest 2009 Dataset that was downloaded from https://www.cs.purdue.edu/commugrate/data/credit_card/. Online transactions dataset simulates credit card transactions of an e-commerce website. 
@@ -28,6 +30,8 @@ Customers: Second we prepared a “customers” dataset derived from the transac
 A 20-page tutorial was prepared to instruct students to explore the dataset using visualization. 
 
 Please download the [tutorial and the dataset](https://github.com/daisecpace/daisecpace.github.io/tree/master/modules/cc_fraud).
+
+
 
 
 
