@@ -13,27 +13,16 @@ Domain Name Data Set: Legitimate domains (labeled as negative cases) are collect
 
 DGA domain data is collected from the DataDrivenSecurity website. These DGA domains are from recent botnets including “Cryptolocker”, two separate “Game-Over Zeus” algorithms, and an anonymous collection of algorithmically generated domains. In total, there are 52,665 entries DGA domains in this data set. In this tutorial, we will use 1000 DGA domains randomly selected from this data set for the analysis.
 
-
+A 18-page tutorial was prepared to instruct students to train an SVM based model to detect machine generated domain names. 
 Please download the tutorial and the dataset.
-
-
 
 
 
 **Module 2 – Fraud Detection Analysis
 
-Online transactions dataset: For this module, we modified a readily available dataset to promote answering open ended question with analytics. Specificely, we used UCSD DataMining Contest 2009 Dataset that was downloaded from https://www.cs.purdue.edu/commugrate/data/credit_card/. Online transactions dataset simulates credit card transactions of an e-commerce website. Sample data is as below.
+Online transactions dataset: For this module, we modified a readily available dataset to promote answering open ended question with analytics. Specificely, we used UCSD DataMining Contest 2009 Dataset that was downloaded from https://www.cs.purdue.edu/commugrate/data/credit_card/. Online transactions dataset simulates credit card transactions of an e-commerce website. 
 
-|amnt 	| hr| day| state| zip1| custAttr1| CustomerEmail| CC type| Mobile| Balance| Till Expiration| Susp. Cat| Susp. Tx.| F 1| F 2| F3| F 4 |	F 5 |Fraud| 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-| 12.95 |0  |1   |WA    |986  |	12345 	 |luhxsodzmjhng7|0 	 |0 	 |-723 	  |19              |0         |0 	 |0   |0   |0 	|0    |1    |0    |
-| 38.85 |0  |1   |WA    |980  |	12345 	 |pfixypvkcg 	|3 	 |1 	 |5497 	  |14 	           |1 	      |0 	 |0   |0   |1 	|0    |1    |0    |
-
-Customers: Second we prepared a “customers” dataset derived from the transactions. This dataset aggregates the transactional data at the customer level. Sample data is as below
-
-Customer 	Average of amount 	# Tnx 	 # Fraud 	bal avg 	Bal std 	F 1 	F 2 	F 3 	F 4 
-aaajfenizilbv@yahoo.com 	49.95 	1 	0 	-3384.00 	0.00 	0 	0 	0 	0 
-aaawmprmbeldr58@comcast.net 	49.95 	1 	0 	-2193.00 	0.00 	0 	1 	0 	0 
+Customers: Second we prepared a “customers” dataset derived from the transactions. This dataset aggregates the transactional data at the customer level. 
 
 A 20-page tutorial was prepared to instruct students to explore the dataset using visualization. 
 Please download the tutorial and the dataset.
